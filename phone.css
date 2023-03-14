@@ -1,0 +1,14 @@
+#navbar{
+    flex-direction: column;  
+}
+
+#home{
+    height: 370px;
+}
+#home::before{
+    height: 480px;
+}
+
+#services{
+    flex-direction: column;
+}
